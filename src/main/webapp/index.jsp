@@ -59,7 +59,7 @@
                         <a class="page-scroll" href="#services">ABOUT US</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#contact">Contact US</a>
                     </li>
                     
                 </ul>
