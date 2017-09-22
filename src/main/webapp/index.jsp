@@ -56,10 +56,10 @@
                         <a class="page-scroll" href="#">HOME</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">ABOUT</a>
+                        <a class="page-scroll" href="#services">ABOUT US</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">CONTACT</a>
+                        <a class="page-scroll" href="#contact">CONTACT US</a>
                     </li>
                     
                 </ul>
